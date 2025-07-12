@@ -34,17 +34,9 @@ Starting Point - Tier 0
 -  list all the keys stored in the currently selected database.
 
         keys *
-- download flag
+- to see the flag 
 
       get flag
-
-- in the root, go to Downloads
-
-      cd Downloads
-
-- open the file containing the flag
-
-      cat flag.txt
 
 
 ##  Tasks:
