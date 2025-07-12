@@ -6,8 +6,8 @@ Starting Point - Tier 0
 
 -IP address: 10.129.59.221
 
-************
-Steps:
+
+##  Steps:
 - open terminal, scan for open ports using
   
         sudo nmap 10.129.59.221 -sV
@@ -21,8 +21,8 @@ Steps:
 
         cat flag.txt
 
-**********
-Tasks:
+
+##    Tasks:
 
 Task 1
 
