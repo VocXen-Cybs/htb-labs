@@ -36,7 +36,7 @@ Starting Point - Tier 0
         keys *
 - download flag
 
-      get flag.txt
+      get flag
 
 - in the root, go to Downloads
 
