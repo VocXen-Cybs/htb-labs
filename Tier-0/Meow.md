@@ -4,8 +4,6 @@ Starting Point - Tier 0
 
 -Difficulty: Very Easy
 
--OS: 
-
 -IP address: 10.129.59.221
 
 ************
