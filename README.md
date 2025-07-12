@@ -2,6 +2,13 @@
 
 A collection of Hack The Box free lab write-ups organized by difficulty tiers.
 
+## Tier 0
+- [Meow](Tier-0/Meow.md)
+- [Fawn](Tier-0/Fawn.md)
+- [Dancing](Tier-0/Dnacing.md)
+- [Redeemer](Tier-0/Redeemer.md)
+
+**********  
 This is a personal collection of Hack The Box Labs.
 
 
