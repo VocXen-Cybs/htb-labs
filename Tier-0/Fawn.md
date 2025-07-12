@@ -6,8 +6,9 @@ Starting Point - Tier 0
 
 -IP address: 10.129.1.14
 
-************
-Steps:
+
+
+##      Steps:
 
 - check ftp version
 
@@ -39,8 +40,8 @@ Steps:
 
         cat flag.txt
 
-**********
-Taks:
+
+##      Taks:
 
 Task 1
 
