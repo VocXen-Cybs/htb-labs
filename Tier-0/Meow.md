@@ -26,13 +26,13 @@ Starting Point - Tier 0
 
 Task 1
 
-What does the acronym VM stand for?
+-What does the acronym VM stand for?
 
     Virtual Machine
 
 Task 2
 
-What tool do we use to interact with the operating system in order to issue commands via the command line, such as the one to start our VPN connection? It's also known as a console or shell.
+-What tool do we use to interact with the operating system in order to issue commands via the command line, such as the one to start our VPN connection? It's also known as a console or shell.
 
     terminal
 
