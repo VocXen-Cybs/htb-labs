@@ -12,3 +12,10 @@ This is a personal collection of Hack The Box Labs.
 - [Fawn](Tier-0/Fawn.md)
 - [Dancing](Tier-0/Dancing.md)
 - [Redeemer](Tier-0/Redeemer.md)
+
+### Tier 1
+- [Appointment](Tier-1/Appointment.md)
+- [Sequel](Tier-1/Sequel.md)
+- [Crocodile](Tier-1/Crocodile.md)
+- [Responder](Tier-1/Responder.md)
+- [Three](Tier-1/Three.md)
