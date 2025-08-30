@@ -21,86 +21,83 @@ Starting Point - Tier 1
 ##    Tasks:
 Task 1
 
-What does the acronym SQL stand for?
+-What does the acronym SQL stand for?
 
--Structured Query Language
+    Structured Query Language
 
-Hide Answer
+
 Task 2
 
-What is one of the most common type of SQL vulnerabilities?
+-What is one of the most common type of SQL vulnerabilities?
 
-*** ********n
-SQL injection
+    SQL injection
 
-Hide Answer
+
 Task 3
 
-What is the 2021 OWASP Top 10 classification for this vulnerability?
+-What is the 2021 OWASP Top 10 classification for this vulnerability?
 
-********-********n
-A03:2021-Injection
 
-Hide Answer
+    A03:2021-Injection
+
+
 Task 4
 
-What does Nmap report as the service and version that are running on port 80 of the target?
+-What does Nmap report as the service and version that are running on port 80 of the target?
 
-****** ***** *.*.** ((******))
-Apache httpd 2.4.38 ((Debian))
 
-Hide Answer
+    Apache httpd 2.4.38 ((Debian))
+
+
 Task 5
 
-What is the standard port used for the HTTPS protocol?
+-What is the standard port used for the HTTPS protocol?
 
-***
-443
 
-Hide Answer
+    443
+
+
 Task 6
 
-What is a folder called in web-application terminology?
+-What is a folder called in web-application terminology?
 
-********y
-directory
 
-Hide Answer
+    directory
+
+
 Task 7
 
-What is the HTTP response code is given for 'Not Found' errors?
+-What is the HTTP response code is given for 'Not Found' errors?
 
-***
-404
 
-Hide Answer
+    404
+
+
 Task 8
 
-Gobuster is one tool used to brute force directories on a webserver. What switch do we use with Gobuster to specify we're looking to discover directories, and not subdomains?
+-Gobuster is one tool used to brute force directories on a webserver. What switch do we use with Gobuster to specify we're looking to discover directories, and not subdomains?
 
-***
-dir
 
-Hide Answer
+    dir
+
+
 Task 9
 
-What single character can be used to comment out the rest of a line in MySQL?
+-What single character can be used to comment out the rest of a line in MySQL?
 
-*
-#
+    #
 
-Hide Answer
+
 Task 10
 
-If user input is not handled carefully, it could be interpreted as a comment. Use a comment to login as admin without knowing the password. What is the first word on the webpage returned?
+-If user input is not handled carefully, it could be interpreted as a comment. Use a comment to login as admin without knowing the password. What is the first word on the webpage returned?
 
-**************s
-Congratulations
 
-Hide Answer
+    Congratulations
+
+
 Submit Flag
 
-Submit root flag
+-Submit root flag
 
-********************************
-e3d0796d002a446c0e622226f42e9672
+    e3d0796d002a446c0e622226f42e9672
