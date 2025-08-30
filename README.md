@@ -19,3 +19,9 @@ This is a personal collection of Hack The Box Labs.
 - [Crocodile](Tier-1/Crocodile.md)
 - [Responder](Tier-1/Responder.md)
 - [Three](Tier-1/Three.md)
+
+### Tier 2
+- [Archetype](Tier-2/Archetype.md)
+- [Oopsie](Tier-2/Oopsie.md)
+- [Vaccine](Tier-2/Vaccine.md)
+- [Unified](Tier-2/Unified.md)
